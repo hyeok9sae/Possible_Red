@@ -33,13 +33,26 @@
 >
 > PWA는 웹과 네이비트 앱의 기능 모두의 이점을 갖도록 수 많은 특정 기술과 표준 패턴을 상요해 개발된 웹 앱입니다. 네이티브 어플리케이션설치하는 것 보다 방문이 쉽고 빠르며 링크로 웹 앱을 공유할 수 있다는 장점이 있습니다. 
 >
-> [참고문서1]([https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/%EC%86%8C%EA%B0%9C](https://developer.mozilla.org/ko/docs/Web/Progressive_web_apps/소개))   [참고문서2]([https://altenull.github.io/2018/02/25/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%A0%88%EC%8B%9C%EB%B8%8C-%EC%9B%B9-%EC%95%B1-Progressive-Web-Apps-%EB%9E%80/](https://altenull.github.io/2018/02/25/프로그레시브-웹-앱-Progressive-Web-Apps-란/))
+
+
 
 
 
 ## 💶 화면
 
 ![image-20210701171903503](https://github.com/hyeok9sae/possible_red/blob/master/output/img/possible_red.png?raw=true)
+
+
+
+
+
+## 🔧 담당 역할 (구현 사항)
+
+- Spring boot를 활용하여 Rest API기반 백엔드 구축
+- 프론트엔드와 백엔드간 양방향 통신 코딩(Axios 라이브러리 활용)
+- 프론트엔드(피드 페이지) 인피니트 스크롤 적용
+
+
 
 
 
@@ -58,6 +71,8 @@
 - **개발 Tool**
 
   ![Visual Code](http://img.shields.io/badge/-VS_code-23A8F2?logo=visualstudio&logoColor=fff) ![Intellij](https://img.shields.io/badge/Intellij_IDEA-CD3F72?&logo=jetbrains&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2391E6?&logo=docker&logoColor=white) 
+
+
 
 
 
