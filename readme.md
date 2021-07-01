@@ -2,10 +2,10 @@
      Possible
      <span style="color: #D50000;">Red</span>
 </h2>
-
   <p align="center">
-    🔊작심삼일이 몸에 베인 사람들을 위한 계획 수행 PWA🔊
+    🔊 작심삼일이 몸에 베인 사람들을 위한 계획 수행 PWA 🔊
 </p>
+
 
 
 
@@ -17,13 +17,13 @@
 
 
 
-Possible Red (이하 PR)는 여러 사람들과 함께 목표를 정하고, 달성해나가며 결과를 공유할 수 있는 플랫폼입니다.
+**Possible Red**(이하 PR)는 여러 사람들과 함께 목표를 정하고, 달성해나가며 결과를 공유할 수 있는 플랫폼입니다.
 
- 대부분의 보통 사람들은 스스로 어떠한 목표를 세우고 꾸준히 실행하는것에 어려움을 느낄 때가 많습니다. 이러한 사람들에게 '모두와 함께 달성한다'는 확실한 동기부여를 제공하며 '재미'와 '즐김'을 함께 느낄 수 있도록 프로젝트를 기획했습니다. 더욱이 최근 발생한 COVID-19 바이러스로 인해 사회적 거리두기와 사회활동이 멈추고 있습니다. 이로인해 무기력함을 느끼고 있을 사람들에게 '다른 사람들과 함께 하고있다'라는 심리적인 안정을 줄 수 있습니다. 
+대부분의 보통 사람들은 스스로 어떠한 목표를 세우고 꾸준히 실행하는것에 어려움을 느낄 때가 많습니다. 이러한 사람들에게 '모두와 함께 달성한다'는 확실한 동기부여를 제공하며 '재미'와 '즐김'을 함께 느낄 수 있도록 프로젝트를 기획했습니다. 더욱이 최근 발생한 COVID-19 바이러스로 인해 사회적 거리두기와 사회활동이 멈추고 있습니다. 이로인해 무기력함을 느끼고 있을 사람들에게 '다른 사람들과 함께 하고있다'라는 심리적인 안정을 줄 수 있습니다. 
 
- 이를 위해 다른 사람들과의 소통 매체인 SNS를 기반으로 프로젝트를 기획했습니다.
+이를 위해 다른 사람들과의 소통 매체인 SNS를 기반으로 프로젝트를 기획했습니다.
 
- 기존의 SNS와 PR의 가장 큰 차이점은 불특정 다수와 함께 미션을 달성하며 성취감을 느낄 수 있다는 것입니다. 매일 빠짐없이 포스트를 작성하며 다른 사람들은 어떻게 활동했는지를 보며 '연대감'을 느낄 수 있습니다. 더욱이, 이 과정에서 다른 사람과 팔로우를 맺으며 인간관계를 확장해 나갈 수도 있습니다. 또한, 조금 더 동기부여를 위해 포인트라는 금전적인 부분을 추가했습니다. 카카오페이, 이니시스, 페이코를 통해 손쉽게 충전이 가능합니다.
+기존의 SNS와 PR의 가장 큰 차이점은 불특정 다수와 함께 미션을 달성하며 성취감을 느낄 수 있다는 것입니다. 매일 빠짐없이 포스트를 작성하며 다른 사람들은 어떻게 활동했는지를 보며 '연대감'을 느낄 수 있습니다. 더욱이, 이 과정에서 다른 사람과 팔로우를 맺으며 인간관계를 확장해 나갈 수도 있습니다. 또한, 조금 더 동기부여를 위해 포인트라는 금전적인 부분을 추가했습니다. 카카오페이, 이니시스, 페이코를 통해 손쉽게 충전이 가능합니다.
 
 
 
@@ -37,49 +37,27 @@ Possible Red (이하 PR)는 여러 사람들과 함께 목표를 정하고, 달�
 
 
 
+## 💶 화면
 
-
-## 💾 프로젝트 결과물
-
-- http://i3d201.p.ssafy.io/
-- https://lab.ssafy.com/s03-webmobile2-sub3/s03p13d201
-
-
+![image-20210701171903503](C:\Users\jaehyeokk\AppData\Roaming\Typora\typora-user-images\image-20210701171903503.png)
 
 
 
 ## 🔍 개발 스택
 
- **협업 Tool**
+- **협업 Tool**
 
-- [Jira](https://www.atlassian.com/software/jira/)
-- [Mattermost](https://mattermost.com/)
-- [GitLab](https://about.gitlab.com/)
+  ![Jira](http://img.shields.io/badge/-Jira-0452B9?logo=Jira&logoColor=fff) ![Mattermost](http://img.shields.io/badge/-Mattermost-0058CC?logo=Mattermost&logoColor=fff) ![GitLab](http://img.shields.io/badge/-GitLab-FA7035?logo=GitLab&logoColor=fff) 
 
-**개발 환경**
+- **개발 환경**
 
-- [Spring boot](https://spring.io/projects/spring-boot/)
-- [mriadb](https://mariadb.com/?_ga=2.5990458.828530280.1597933163-1220428684.1595376782&_gac=1.253048443.1597933163.Cj0KCQjwvvj5BRDkARIsAGD9vlJI4NHCwXQd0QPXHgi7Ah0FALfoOK6sEDeNHixB2aYjmILXUwDGdrEaAqEQEALw_wcB)
-- [Vue](https://vuejs.org/)
-- [AWS ec2](https://aws.amazon.com/ko/?nc2=h_lg) 
-- [Ubuntu](https://ubuntu.com/download/desktop)
-- Open API
+  ![Spring boot](http://img.shields.io/badge/-Spring boot-6DB33F?logo=Springboot&logoColor=fff) ![mriadb](http://img.shields.io/badge/-MariaDB-C49A6C?logo=mariadb&logoColor=fff) ![Vue](http://img.shields.io/badge/-Vue.js-47C08D?logo=vue.js&logoColor=fff) 
 
-**개발 Tool**
+  ![AWS ec2](http://img.shields.io/badge/-AWS_ec2-EC690E?logo=amazon-aws&logoColor=fff) ![Ubuntu](http://img.shields.io/badge/-Ubuntu-DD4814?logo=Ubuntu&logoColor=fff) ![Open API](http://img.shields.io/badge/-Open_API-4B572E?logo=&logoColor=fff) 
 
-- [Visual Code](https://code.visualstudio.com/)
-- [Intellij](https://www.jetbrains.com/ko-kr/idea/)
-- [Docker](https://www.docker.com/)
+- **개발 Tool**
 
-
-
-## How To Use❓❗
-
-Mobile || PC
-
-- http://i3d201.p.ssafy.io/
-
-
+  ![Visual Code](http://img.shields.io/badge/-VS_code-23A8F2?logo=visualstudio&logoColor=fff) ![Intellij](https://img.shields.io/badge/Intellij_IDEA-CD3F72?&logo=jetbrains&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2391E6?&logo=docker&logoColor=white) 
 
 
 
@@ -93,5 +71,6 @@ Mobile || PC
 🔨 Backend Developer
 
 - 최재혁 - hyeok9sae@naver.com
-- 오혜영 - enffl9568@naver.com || [에영이 깃 블로그](https://oheong.github.io/)
+- 오혜영 - enffl9568@naver.com
 - 배성재 - tjdwob@gmail.com
+
