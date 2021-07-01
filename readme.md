@@ -39,7 +39,7 @@
 
 ## 💶 화면
 
-![image-20210701171903503](C:\Users\jaehyeokk\AppData\Roaming\Typora\typora-user-images\image-20210701171903503.png)
+![image-20210701171903503](https://github.com/hyeok9sae/possible_red/blob/master/output/img/possible_red.png?raw=true)
 
 
 
@@ -51,7 +51,7 @@
 
 - **개발 환경**
 
-  ![Spring boot](http://img.shields.io/badge/-Spring boot-6DB33F?logo=Springboot&logoColor=fff) ![mriadb](http://img.shields.io/badge/-MariaDB-C49A6C?logo=mariadb&logoColor=fff) ![Vue](http://img.shields.io/badge/-Vue.js-47C08D?logo=vue.js&logoColor=fff) 
+  ![Spring boot](http://img.shields.io/badge/-Spring_boot-6DB33F?logo=Springboot&logoColor=fff) ![mriadb](http://img.shields.io/badge/-MariaDB-C49A6C?logo=mariadb&logoColor=fff) ![Vue](http://img.shields.io/badge/-Vue.js-47C08D?logo=vue.js&logoColor=fff) 
 
   ![AWS ec2](http://img.shields.io/badge/-AWS_ec2-EC690E?logo=amazon-aws&logoColor=fff) ![Ubuntu](http://img.shields.io/badge/-Ubuntu-DD4814?logo=Ubuntu&logoColor=fff) ![Open API](http://img.shields.io/badge/-Open_API-4B572E?logo=&logoColor=fff) 
 
