@@ -74,16 +74,16 @@
 
 
 
-## 📞 Contact to '#편한세상'
+## 📞 Team '#편한세상'
 
 🎨 Frontend Developer
 
-- 김희정 - dhodhody@gmail.com
-- 강해솔 - tashu3101@gmail.com
+- 김희정 
+- 강해솔 
 
 🔨 Backend Developer
 
-- 최재혁 - hyeok9sae@naver.com
-- 오혜영 - enffl9568@naver.com
-- 배성재 - tjdwob@gmail.com
+- 최재혁 
+- 오혜영 
+- 배성재 
 
